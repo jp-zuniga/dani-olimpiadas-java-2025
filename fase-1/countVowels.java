@@ -7,7 +7,7 @@ public class Main {
 
     public static void main(String[] args) {
         // Imprimir resultado de llamado de función
-        System.out.println(countVowels("Olimpiadas de Java"));
+        System.out.println(countVowels("olimpiadas de Java"));
     }
 
     public static int countVowels(String text) {
